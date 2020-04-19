@@ -1,2 +1,2 @@
 # FindShortestPath
-Finding shortest path between given nodes with respect to their properties by using Breadth First Search algorithm
+Finding Shortest Path between given nodes with respect to their properties by using Breadth First Search algorithm
