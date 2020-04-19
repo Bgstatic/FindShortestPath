@@ -1,5 +1,5 @@
-package findShortestPath;
-                                // Vertex Class.
+// Vertex Class.
+
 public class Vertex {
 
 	int id;
